@@ -1,11 +1,14 @@
 package Inheritance;
 
+
+//CHILD CLASS INHERITED THE PROPERTIES OF PARENT CLASS EMPLOYEE
 public class Manager extends Employee {
-    int salary;
+
+    protected int salary;
 
     public Manager(String x, int y){
 
-        super(x);
+        super(x);   //SENDING THE VALUE TO PARENT CONSTRUCTOR
 
         salary=y;
 

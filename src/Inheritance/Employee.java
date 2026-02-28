@@ -1,5 +1,6 @@
 package Inheritance;
 
+//PARENT CLASS
 public class Employee{
 
      protected String name;
