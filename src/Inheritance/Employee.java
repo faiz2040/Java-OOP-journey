@@ -1,0 +1,25 @@
+package Inheritance;
+
+public class Employee{
+
+     protected String name;
+
+    public Employee(String newName){
+
+
+      name=newName;
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+}
