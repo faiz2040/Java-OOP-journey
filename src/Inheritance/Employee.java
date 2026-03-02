@@ -5,10 +5,10 @@ public class Employee{
 
      protected String name;
 
-    public Employee(String newName){
+    public Employee(String newname){
 
 
-      name=newName;
+      name=newname;
 
 
 

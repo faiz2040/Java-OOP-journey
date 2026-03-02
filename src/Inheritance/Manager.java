@@ -15,7 +15,7 @@ public class Manager extends Employee {
 
     }
 
-    public void work(){
+    public void Work(){
 
         System.out.println("The Inheritance.Employee name is "+name+" and salary is "+salary);
     }
@@ -23,7 +23,7 @@ public class Manager extends Employee {
     public static void main(String[] args){
 
         Manager obj= new Manager("Sarah",20000);
-        obj.work();
+        obj.Work();
 
 
 
